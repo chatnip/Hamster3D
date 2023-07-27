@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ce8489ed55d7cc44b30bb2f04ce35f0, type: 3}
+  m_Name: SunFlower
+  m_EditorClassIdentifier: 
+  interactName: "\uD574\uBC14\uB77C\uAE30"
+  interactString: "\uBCFC\uC8FC\uBA38\uB2C8\uAC00 \uBE75\uBE75\uD574\uC84C\uB2E4!"
+  interactType: 2
